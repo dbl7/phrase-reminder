@@ -1,1 +1,2 @@
-export * from './phrase-remider';
+export * from './phrase-reminder.viewmodel';
+export * from './phrase-reminder.view';

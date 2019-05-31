@@ -1,9 +1,10 @@
 import './assets/style.css';
 
-import { PhraseRemider } from './phrase-reminder';
+import { PhraseReminderViewModel, PhraseReminderView } from './phrase-reminder';
 
-const phraseReminder = new PhraseRemider();
+const viewModel = new PhraseReminderViewModel(['first phrase', 'second phrase']);
+const view = new PhraseReminderView(viewModel);
 
 window.addEventListener('load', () => {
-    document.body.appendChild(phraseReminder.view);
+    document.querySelector('main').appendChild(view.getView());
 });

@@ -1,0 +1,37 @@
+.phrase-reminder {
+    display: flex;
+    flex-direction: column;
+}
+
+.phrase {
+    flex-grow: 1;
+    padding: 80px 42px 0;
+    margin-bottom: 32px;
+    line-height: 32px;
+    font-size: 24px;
+    overflow-y: auto;
+}
+
+.switch-buttons {
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    height: 100px;
+    align-self: center;
+}
+
+.switch-phrase {
+    background-color: transparent;
+    padding: 0;
+    border: 0;
+    outline: none;
+    background-image: url('../assets/images/right-arrow.svg');
+    background-repeat: no-repeat;
+    width: 37px;
+    height: 30px;
+}
+
+.prev-phrase {
+    transform: rotate(180deg);
+}

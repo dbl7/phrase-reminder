@@ -6,42 +6,15 @@ main {
 }
 
 main {
-    display: grid;
-    grid-template-columns: 4px auto;
+    display: flex;
 }
 
 .side {
+    flex-shrink: 0;
+    width: 4px;
     background: linear-gradient(to bottom, #fbda61, #f76b1c);
 }
 
 .phrase-reminder {
-    display: grid;
-    grid-template-rows: auto 100px;
-    justify-items: center;
-}
-
-.phrase {
-    text-align: center;
-    padding: 80px 16px;
-}
-
-.switch-phrase {
-    background-color: transparent;
-    padding: 0;
-    border: 0;
-    outline: none;
-    background-image: url('./images/right-arrow.svg');
-    background-repeat: no-repeat;
-    width: 37px;
-    height: 30px;
-}
-
-.switch-buttons {
-    display: flex;
-    justify-content: space-between;
-    width: 100px;
-}
-
-.prev-phrase {
-    transform: rotate(180deg);
+    flex-grow: 1;
 }

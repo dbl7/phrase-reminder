@@ -1,3 +1,4 @@
+import './phrase-reminder.css';
 import { PhraseReminderViewModel } from "./phrase-reminder.viewmodel";
 
 export class PhraseReminderView {

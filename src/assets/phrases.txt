@@ -1,0 +1,255 @@
+Suppose the template expression **involves** a property path
+On the other hand, null values in the property path may be OK **from time to time**
+What do you have to worry about?
+To understand how it works, let’s take a look at
+I am four years older than my sister.
+We need further discussions to make a decision. Нам потребуются дополнительные обсуждения для того, чтобы принять решение.
+Once that happens, your application is **exposed** to traditional software logic duplication issues 
+The boy was as tall as his father.
+Your coffee is not so good as the coffee my mother makes.
+I want a big house. The bigger, the better. Я хочу большой дом. Чем больше, тем лучше.
+He is getting better and better.
+It was too early, as I said.
+**In charge of** interactivity and advanced stuff.
+this is not advice, **even though** it’s phrased that way.
+So let’s consider this question
+I'm sick and tired of this mess
+It's important to remember that using a custom element is **no different than** using a <div> or any other element. 
+Our Car **lacks** the flexibility to share services that have been created previously for other consumers.
+They also describe a **lack** of clear direction from senior management
+Unfortunately, modern browsers are so stupid that they reload all the tabs when you restart them. Which takes ages if you have a hundred of tabs.
+**Even though** I use Emoji every day
+I was at first disappointed when I discovered the web was invisible and inside my computer, but my disappointment was soon replaced by glee
+Dark chocolate is good, but too much of even a good thing can be a bad thing.
+it’s not just what you eat—it’s also what you don’t eat.
+Let’s move on to JavaScript.
+What Are They For?
+I note the places where people are likely to **get stuck**
+This example shows a middleware function with no **mount** path.
+Do you mind waiting for a while - Ты не против немного подождать?
+Do your absolute best - Сделайте все возможное
+Our app will depend upon the Angular http service
+And keep in mind that even the most famous designers are only human.
+He may be late for the meeting
+Jessica won't go to England. What am I supposed to do?. Let me talk to her. * I assure you she may go to Engl tomorrow. Джессика не поедет в Англию. * Что мне теперь делать? Дай мне поговорить с ней. Уверяю тебя, может * быть, завтра же она поедет в Англию.
+He might be in Los Angeles. - Возможно он ...
+It only takes a few additional touches to correct the balance of the page - Это займет всего несколько дополнительных штрихов, чтобы исправить баланс страницы
+everything is going to be a surprise, everything is going to be immediately urgent
+it’s a long answer to your short question
+There are a lot of books, there are a lot of incubators, there are lot of blogs and so forth that there never were before.
+but it wasn’t too bad.
+it's up to you.
+In other words
+This does impose a certain amount of - Это накладывает определенное количество
+You are always coming late!
+Let's keep this secret between you and me.
+On Christmas Day everyone feels happy
+What am I supposed to do?
+He put on a coat over his shirt. Он надел пальто поверх рубашки.
+My decision depends on your opinion.
+I have not met my other half so far.
+John is my only friend. I will miss him
+Whose is this scarf? – It`s mine.
+We aspire to fetch this list of heroes from a web service
+Neither Jane nor Ann came to the party.
+You look nice today.
+I was very upset. The train arrived late.
+I’ve been pleasantly surprised
+I am going to tell you about what happened to Paul because he started to cut class.
+The needed portion of the image
+what might have happened to them
+This guitar has been tuned by my friend recently. Гитара была недавно настроена моим другом. The window has been broken with a ball. Окно было разбито мячом.
+could you please say it in a different way
+The book will have been finished by next week
+if you aren't familiar with the programming language
+To get the computer to do what you wanted, you had to speak to it in a computer programming language.
+it attracted a lot of attention
+To overcome these problems
+SVG further enhances what we have seen regarding icon fonts.
+What will we do if there are late?
+Regardless of salary
+which was significantly easier for me.
+Can you advise me?/Can you give me a advice?
+It stopped raining and mother told us
+That bothers me.
+What may happen to us? Что может случиться с нами?
+I think I'm as strong as you
+I'm absolutely positive about it.
+You are such a sweet person.
+Who has just called?
+How long does it take to get there?
+You are the most beautiful woman I have ever met.
+How are the things going
+Take a shower.
+These smaller files take up less space on hard drives
+We will no longer receive the hero in a parent component property binding.
+At this point, besides feeling like a complete failure in life
+She liked her a lot
+And in order to keep a decent level of contrast
+It only takes a few additional touches to correct the balance of the page
+Let’s take a peek
+My doctor gave me two useful pieces of advice
+What Are They For?
+How the middle class got scared
+Hurry up! We have little time.
+The only way out is to find another hotel. Единственный выход – это найти другой отель.
+Who profits from an person that is mentally or physically not healthy anymore (burn-out, exhaustion)?
+As employers, we need to make sure that employees
+Don’t get me wrong
+I got stuck in traffic
+it's scam, but it works
+Doesn't it sound good? Wouldn't you do it?
+I demand to know what's going on
+He won't talk to me
+You should talk to them about it.
+We INTEND to display the name of the hero in the <input>
+I don't really mind to do housework
+Do you mind waiting here until I'm ready
+Following a suggestion by other major browser vendors - По предложению других крупных производителей браузеров
+How long does it take to get there?
+It seems like Bill is falling in love with Samantha.
+It seems to me that you will be late for the class at 8:00.
+Let's break down how this works
+Everything we've seen so far in these two articles
+Stay tuned!
+Do you mind waiting for a while - Ты не против немного подождать?
+Do your absolute best - Сделайте все возможное
+Our app will depend upon the Angular http service
+And keep in mind that even the most famous designers are only human.
+He may be late for the meeting
+Jessica won't go to England. What am I supposed to do?. Let me talk to her. I assure you she may go to Engl tomorrow. Джессика не поедет в Англию. Что мне теперь делать? Дай мне поговорить с ней. Уверяю тебя, может быть, завтра же она поедет в Англию.
+it enforces consistency.
+If I had the time I might learn French.
+This works pretty well
+But it’s a good rule of thumb - Но это хорошее правило
+it’s a bit of a waste - Это немного пустая трата
+What may happen to us?
+I wouldn't be so sure
+Who was I to demand change?
+It is a simple convention, which works beautifully.
+It’s no wonder that, это не удевильно что...
+try splitting the IWorker interface in 2 different interfaces
+Can I get you anything else? – Могу я вам еще что-нибудь принести?
+How is everything sir? – Как дела, сэр?
+What are the side dishes? – Что предлагается на гарнир?
+Excuse me, may I squeeze? можно мне протиснуться
+I’m sorry for coming late.
+They want to lend me $100.
+Is there anything else I can help you with?
+What time would you like me to call you?
+Here you are. – Вот, возьмите. Используется, когда вы передаете какой-то предмет другому человеку.
+Users don’t just stare at the screen.
+I have quite a few books on art. - У меня довольно много книг по искусству.
+I grateful
+fuss/fussy
+Don’t get me wrong
+This is obviously a huge waste of time.
+Are you still around?
+I recommend them if you are interested in them
+you’ve **undoubtedly** heard about
+So buckle up
+I'm concerned
+This is mainly due to the fact that - Это в основном связано с тем, что
+First, it gets changed
+What the heck just happened?
+But sleep was not an option for me.
+Nothing wrong with that. 
+When you are trying something new – the discomfort you feel is a sure sign that you’re growing as a person.
+Sorry, the line is breaking up
+I look forward to meeting you!
+I would appreciate it if you answered the following questions
+I would grateful if you provided the following info
+Instead of thinking about all the things that could go wrong today
+Don’t worry though, friend
+you're doing great! - Ты отлично справляешься!
+I'm not making that up - я не сочиняю 
+no way! (не может быть)
+Sorry, I better get going.
+You will not be charged
+scroll glitches
+As we pointed out before
+It will be refunded to your card.
+I didn't feel stuck anymore.
+I better get going
+Apart from someone
+All good so far.
+As far as I'm concerned - что касается меня
+Don’t get me wrong
+What does it consist **of**
+that’s not the point - не в этом дело
+the point is that - дело в том, что
+But there’s a caveat
+What's all the fuss about? - в чем вообще дело?
+it encourages you to do somthing
+I hope you find my examples both helpful and delicious.
+In order to simplify this task
+That, I'm afraid, is inevitable 
+In this blog post we will describe what we have learned
+Reactive forms are synchronous. Template-driven forms are asynchronous. It's a difference that matters.
+It’s a problem as long as we make it a problem.
+I pretty much didn’t understand any word in this sentence
+Care to guess why? - угадай, почему?
+***A good rule of thumb*** is two to three paragraphs clearly expressing your idea.
+it’s crap
+Today, I'm excited to announce that...
+Ladies and gents this is the moment you’ve waited for
+There is a little sugar left
+They left a few minutes ago, you can catch them if you hurry up.
+I only need a few minutes to get ready
+can you explain TO me
+I found a way to fuck it up again
+It was less than impressive
+It is pointless
+But it’s not rocket science.
+It is frankly impossible.
+I have no desire to be the smartest or coolest person in the room
+I feel calm but energized
+in plain words
+let's cut the bullshit
+nothing rings a bell
+They, **in turn**, might be a composition of other functions, and so on.
+We won't finish this work at six, because **there is still so much to do**.
+Please be quiet! - Пожалуйста, потише!
+I can screw things up really badly
+It implies
+Bullshit, you say?
+Nobody wants to be the first one on the dance floor.
+In line with this
+So it's nearly impossible to stop eating junk food and eat healthy
+The shop is across the street
+Things are a lot better than they used to be
+better safe than sorry
+quite strange
+in a few minutes. in a few days
+I turned it into a way to live my dream
+Crazy, right?
+Nothing personal
+That's a pity.
+Every now and then
+when it comes to something - когда дело доходит до чего-то
+in the long term - в долгосрочной перспективе.
+Slow Down to Speed Up
+I can barely tell
+Bear with me. - потерпите меня немного
+A nice way to look at this is through the lens of functional programming
+Even better 
+just do me a favor
+I have no choice but to do ....
+Would that change anything? - Это что-нибудь изменит?
+Meaner than ever - слкишком долго
+If it were easy, everybody would do it.
+When can I expect to get the results?
+Is she hitting on me? - она клеится ко мне?
+So, what does it take to be an (driver/postman/etc)?
+The tour lasts for about three hours
+I jumped at the chance.
+It is not acceptable for a student to behave like that towards a teacher.
+How can I get in touch with you?
+It's a rather tragic story.
+What’s it like?
+fair enough
+didn't see that coming - этого я не ожидал
+that hurts - обидно
+It won't take long to paint this room
+Bearing this in mind
+to meet these demands

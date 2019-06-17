@@ -4,6 +4,7 @@ export class PhraseReminderViewModel {
 
     constructor(private phrases: string[]) {
         this.length = this.phrases.length;
+        this.shafle(this.phrases);
     }
 
     public getCurrentPhrase(): string {
@@ -18,5 +19,16 @@ export class PhraseReminderViewModel {
     public getNextPhrase(): string {
         this.currentIndex = (this.currentIndex === this.length - 1 ? -1 : this.currentIndex) + 1;
         return this.getCurrentPhrase();
+    }
+
+    private shafle(phrases: string[]): void {
+        let length = phrases.length;
+
+        while(length) {
+            const i = Math.floor(Math.random() * length--);
+            const temp = phrases[length];
+            phrases[length] = phrases[i];
+            phrases[i] = temp;
+        }
     }
 }

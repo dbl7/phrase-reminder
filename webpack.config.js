@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = {
     entry: './src/app.ts',
@@ -24,7 +25,10 @@ module.exports = {
             },
             {
                 test: /\.svg$/,
-                use: 'file-loader',
+                use: [{
+                    loader: 'file-loader',
+                    options: { name: '[name].[ext]' },
+                }],
             },
             {
                 test: /\.txt$/,
@@ -38,6 +42,9 @@ module.exports = {
             filename: 'index.html',
             template: './src/index.html',
         }),
+        new CopyPlugin([
+            { from: 'src/service-worker.js' },
+          ]),
     ],
 
     devServer: {

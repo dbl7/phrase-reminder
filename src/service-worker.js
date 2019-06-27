@@ -1,8 +1,8 @@
 const CACHE_NAME = 'phrase-reminder-cache-v1';
 const urlsToCache = [
-    '/',
-    '/main.bundle.js',
-    '/right-arrow.svg',
+    './',
+    './main.bundle.js',
+    './right-arrow.svg',
 ];
 
 self.addEventListener('install', event => {
